@@ -2,3 +2,6 @@ fb2index [![License](http://img.shields.io/:license-gpl3-blue.svg)](http://www.g
 ========
 
 [На русском](README.ru.md).
+
+![Screencast](/screencast.gif)
+
